@@ -1,6 +1,6 @@
 EXTM3U
 
-#EXTINF:-1 tvg-id="" tvg-name="JOIN RRIPTV" tvg-logo="https://i.postimg.cc/T3RtS770/Copy-of-CRICHD.png" group-title="India ➾ Movie",IN: & pictures
+#EXTINF:-1 tvg-id="" tvg-name="JOIN RRIPTV" tvg-logo="https://i.postimg.cc/T3RtS770/Copy-of-CRICHD.png" group-title="JOIN RRIPTV",TELEGRAM
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16958
 #EXTINF:-1 tvg-id="" tvg-name="IN: & pictures" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a1f81b40485819fec3ef445eb88d0557.png" group-title="India ➾ Movie",IN: & pictures
 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/16958
