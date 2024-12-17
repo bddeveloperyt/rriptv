@@ -1,0 +1,146 @@
+[
+  {
+    "name": "Sony Pix HD",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=785&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2020/02/pixhd-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Kal",
+    "link": "https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2022/10/kal-185x278.png",
+    "origin": "",
+    "referrer": "",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony TV HD",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=1100&e.m3u8",
+    "logo": "https://neeplay.com/wp-content/uploads/2020/01/sonyhd-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony SAB HD",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=1201&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2020/01/sabd-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Max HD",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=878545&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2020/01/maxhd-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Max",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=96&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2020/09/max-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Max 2",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=123&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2020/05/max2-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Wah",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=75&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2020/01/wah-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Pal",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=1894&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2020/01/pal-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Yay Hindi",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=168569&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2022/12/yay-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony BBC Earth HD",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=852&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2020/02/images-1-9-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+  {
+    "name": "Sony Aath",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=195&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2021/05/aath-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
+ 
+  {
+    "name": "Sony Marathi",
+    "link": "https://keralamaxtv.com/sliv/stream.php?id=1378&e.m3u8",
+    "logo": "https://neeplay.net/wp-content/uploads/2021/05/marathis-185x278.png",
+    "origin": "",
+    "referrer": "https://keralamaxtv.com/",
+    "userAgent": "",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  }
+]
