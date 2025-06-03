@@ -1,0 +1,28 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="Sun_Bangla" group-title="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b3/Sun_Bangla.png",Sun Bangla
+http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+
+#EXTINF:-1 tvg-id="Zee-Bangla" group-title="Bangla TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png",Zee Bangla
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+
+#EXTINF:-1 tvg-id="Zee BanglaHD" group-title="Bangla TV" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_528,h_297,c_scale,f_webp,q_auto:eco/resources/0-9-9z5383484/channel_list/1170x6587bc331e21a16450c853bffefb8844e21.png",Zee BanglaHD
+https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla" group-title="Bangla TV" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/10/colorsbangla.jpg",ColorsBangla
+http://38.96.178.201/live/ColorsBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="ColorsBangla" group-title="Bangla TV" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/10/colorsbangla.jpg",ColorsBangla
+https://tatatv.stevosure123.workers.dev/video.m3u8?id=12119
+
+#EXTINF:-1 tvg-id="ColorsBangla" group-title="Bangla TV" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/10/colorsbangla.jpg",ColorsBangla
+https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",STARJALSHA
+http://38.96.178.201/live/STARJALSHA/index.m3u8
+
+#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",STARJALSHA
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",STARJALSHA
+http://smart.bengaldigital.live/Star-jalsha/index.m3u8
