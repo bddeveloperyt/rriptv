@@ -18,11 +18,11 @@ https://tatatv.stevosure123.workers.dev/video.m3u8?id=12119
 #EXTINF:-1 tvg-id="ColorsBangla" group-title="Bangla TV" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2020/10/colorsbangla.jpg",ColorsBangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",STARJALSHA
+#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STARJALSHA
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 
-#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",STARJALSHA
+#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STARJALSHA
 https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://www.jamuna.tv/assets/images/jamuna-tv-logo.png",STARJALSHA
+#EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STARJALSHA
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
