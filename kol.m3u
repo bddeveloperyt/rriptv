@@ -32,3 +32,9 @@ http://38.96.178.201/live/AkashAath/index.m3u8
 
 #EXTINF:-1 tvg-id="JalshaMovies" group-title="Bangla TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Jalsha-movies.png",JalshaMovies
 http://38.96.178.201/live/JalshaMovies/index.m3u8
+
+#EXTINF:-1 tvg-id="SonyAath" group-title="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",SonyAath
+https://38.96.178.201/live/SonyAath/index.m3u8
+
+#EXTINF:-1 tvg-id="RuposhiBangla" group-title="Bangla TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Oa1renOddAO4QjMvxzdsANvEpLnSuzD46g&s",RuposhiBangla
+https://38.96.178.201/live/RuposhiBangla/index.m3u8
