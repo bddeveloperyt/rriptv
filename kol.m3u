@@ -26,3 +26,9 @@ https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="STARJALSHA" group-title="Bangla TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Star_Jalsha_logo_2023.png",STARJALSHA
 http://smart.bengaldigital.live/Star-jalsha/index.m3u8
+
+#EXTINF:-1 tvg-id="AkashAath" group-title="Bangla TV" tvg-logo="https://www.indiantelevision.com/sites/default/files/images/tv-images/2014/09/12/dfddsf.jpg",AkashAath
+http://38.96.178.201/live/AkashAath/index.m3u8
+
+#EXTINF:-1 tvg-id="JalshaMovies" group-title="Bangla TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Jalsha-movies.png",JalshaMovies
+http://38.96.178.201/live/JalshaMovies/index.m3u8
