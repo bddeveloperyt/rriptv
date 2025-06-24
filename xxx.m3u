@@ -1,0 +1,710 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1363019768" tvg-name="Chintu TV" tvg-genre="Kids" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg" tvg-chno="" group-title="Kids",Chintu TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/1363019768/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/1363019768/manifest.mpd
+#EXTINF:-1 tvg-id="0da69895b3" tvg-name="Kochu" tvg-genre="Kids" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg" tvg-chno="" group-title="Kids",Kochu
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/0da69895b3/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/0da69895b3/manifest.mpd
+#EXTINF:-1 tvg-id="908833f3c4" tvg-name="Chutti TV" tvg-genre="Kids" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg" tvg-chno="" group-title="Kids",Chutti TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/908833f3c4/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/908833f3c4/manifest.mpd
+#EXTINF:-1 tvg-id="b6bf2b7b77" tvg-name="Kushi TV" tvg-genre="Kids" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194346/960x540_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg" tvg-chno="" group-title="Kids",Kushi TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b6bf2b7b77/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b6bf2b7b77/manifest.mpd
+#EXTINF:-1 tvg-id="548c6a8c7c" tvg-name="Adithya TV" tvg-genre="Comedy" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg" tvg-chno="" group-title="Comedy",Adithya TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/548c6a8c7c/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/548c6a8c7c/manifest.mpd
+#EXTINF:-1 tvg-id="8425f37731" tvg-name="Gemini Life" tvg-genre="Lifestyle" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg" tvg-chno="" group-title="Lifestyle",Gemini Life
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/8425f37731/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/8425f37731/manifest.mpd
+#EXTINF:-1 tvg-id="4cb53992ba" tvg-name="Gemini Comedy" tvg-genre="Comedy" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg" tvg-chno="" group-title="Comedy",Gemini Comedy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/4cb53992ba/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/4cb53992ba/manifest.mpd
+#EXTINF:-1 tvg-id="3ef5c4717f" tvg-name="Gemini Music" tvg-genre="Music" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" tvg-chno="" group-title="Music",Gemini Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/3ef5c4717f/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/3ef5c4717f/manifest.mpd
+#EXTINF:-1 tvg-id="f0f55c7510" tvg-name="Gemini Music HD" tvg-genre="Music" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg" tvg-chno="" group-title="Music",Gemini Music HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/f0f55c7510/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/f0f55c7510/manifest.mpd
+#EXTINF:-1 tvg-id="7a32c2f482" tvg-name="Gemini Movies" tvg-genre="Movies" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg" tvg-chno="" group-title="Movies",Gemini Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/7a32c2f482/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/7a32c2f482/manifest.mpd
+#EXTINF:-1 tvg-id="6e80d5afba" tvg-name="Gemini Movies HD" tvg-genre="Movies" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" tvg-chno="" group-title="Movies",Gemini Movies HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/6e80d5afba/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/6e80d5afba/manifest.mpd
+#EXTINF:-1 tvg-id="b57e08b8f1" tvg-name="Gemini HD" tvg-genre="Entertainment" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg" tvg-chno="" group-title="Entertainment",Gemini HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b57e08b8f1/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b57e08b8f1/manifest.mpd
+#EXTINF:-1 tvg-id="1049638f43" tvg-name="Gemini TV" tvg-genre="Entertainment" tvg-language="Telugu" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg" tvg-chno="" group-title="Entertainment",Gemini TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/1049638f43/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/1049638f43/manifest.mpd
+#EXTINF:-1 tvg-id="f5f7a77618" tvg-name="Udaya Comedy" tvg-genre="Comedy" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" tvg-chno="" group-title="Comedy",Udaya Comedy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/f5f7a77618/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/f5f7a77618/manifest.mpd
+#EXTINF:-1 tvg-id="04fcea1f3e" tvg-name="Udaya Music" tvg-genre="Music" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194401/640x360_UdayaMusic_194401_c6816391-ea32-4780-bf8f-25cb839cef89.jpg" tvg-chno="" group-title="Music",Udaya Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/04fcea1f3e/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/04fcea1f3e/manifest.mpd
+#EXTINF:-1 tvg-id="b1dee8f6d3" tvg-name="Udaya Movies" tvg-genre="Movies" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194386/640x360_UdayaMovies_194386_429c7b3b-44a9-4328-8be3-645621c6e167.jpg" tvg-chno="" group-title="Movies",Udaya Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b1dee8f6d3/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b1dee8f6d3/manifest.mpd
+#EXTINF:-1 tvg-id="0787678b00" tvg-name="Udaya" tvg-genre="Entertainment" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/193239/640x360_TestChannel_193239_e9155a54-81ab-49a1-9b95-0cd81b234dc0.jpg" tvg-chno="" group-title="Entertainment",Udaya
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/0787678b00/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/0787678b00/manifest.mpd
+#EXTINF:-1 tvg-id="1e2281d247" tvg-name="Udaya HD" tvg-genre="Entertainment" tvg-language="Kannada" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194399/640x360_UdayaTVHD_194399_728eed6e-6e9e-469c-8ad4-b9d1ef48ca8c.jpg" tvg-chno="" group-title="Entertainment",Udaya HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/1e2281d247/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/1e2281d247/manifest.mpd
+#EXTINF:-1 tvg-id="3c8b3905e0" tvg-name="Surya Comedy" tvg-genre="Comedy" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg" tvg-chno="" group-title="Comedy",Surya Comedy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/3c8b3905e0/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/3c8b3905e0/manifest.mpd
+#EXTINF:-1 tvg-id="d339fafb27" tvg-name="Surya Music" tvg-genre="Music" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg" tvg-chno="" group-title="Music",Surya Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/d339fafb27/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/d339fafb27/manifest.mpd
+#EXTINF:-1 tvg-id="4220b42f96" tvg-name="Surya Movies" tvg-genre="Movies" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg" tvg-chno="" group-title="Movies",Surya Movies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/4220b42f96/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/4220b42f96/manifest.mpd
+#EXTINF:-1 tvg-id="d5d7815135" tvg-name="Surya" tvg-genre="Entertainment" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg" tvg-chno="" group-title="Entertainment",Surya
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/d5d7815135/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/d5d7815135/manifest.mpd
+#EXTINF:-1 tvg-id="601c07e6d3" tvg-name="Surya HD" tvg-genre="Entertainment" tvg-language="Malayalam" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg" tvg-chno="" group-title="Entertainment",Surya HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/601c07e6d3/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/601c07e6d3/manifest.mpd
+#EXTINF:-1 tvg-id="4ce5e3ee88" tvg-name="KTV HD" tvg-genre="Movies" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194405/640x360_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg" tvg-chno="" group-title="Movies",KTV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/4ce5e3ee88/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/4ce5e3ee88/manifest.mpd
+#EXTINF:-1 tvg-id="b205f5d0b6" tvg-name="KTV" tvg-genre="Movies" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194409/640x360_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg" tvg-chno="" group-title="Movies",KTV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b205f5d0b6/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b205f5d0b6/manifest.mpd
+#EXTINF:-1 tvg-id="3f3dad0cb5" tvg-name="Sun News" tvg-genre="News" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg" tvg-chno="" group-title="News",Sun News
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/3f3dad0cb5/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/3f3dad0cb5/manifest.mpd
+#EXTINF:-1 tvg-id="71a585ae1b" tvg-name="Sun Life" tvg-genre="Lifestyle" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194391/640x360_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg" tvg-chno="" group-title="Lifestyle",Sun Life
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/71a585ae1b/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/71a585ae1b/manifest.mpd
+#EXTINF:-1 tvg-id="3ced79e015" tvg-name="Sun Music" tvg-genre="Music" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg" tvg-chno="" group-title="Music",Sun Music
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/3ced79e015/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/3ced79e015/manifest.mpd
+#EXTINF:-1 tvg-id="e061a571da" tvg-name="Sun Music HD" tvg-genre="Music" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194406/640x360_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg" tvg-chno="" group-title="Music",Sun Music HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/e061a571da/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/e061a571da/manifest.mpd
+#EXTINF:-1 tvg-id="8fff21c29d" tvg-name="Sun Marathi" tvg-genre="Entertainment" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg" tvg-chno="" group-title="Entertainment",Sun Marathi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/8fff21c29d/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/8fff21c29d/manifest.mpd
+#EXTINF:-1 tvg-id="b6a164f4e6" tvg-name="Sun TV HD" tvg-genre="Entertainment" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194403/640x360_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg" tvg-chno="" group-title="Entertainment",Sun TV HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b6a164f4e6/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b6a164f4e6/manifest.mpd
+#EXTINF:-1 tvg-id="d585cc04a4" tvg-name="Sun TV" tvg-genre="Entertainment" tvg-language="Tamil" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg" tvg-chno="" group-title="Entertainment",Sun TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/d585cc04a4/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/d585cc04a4/manifest.mpd
+#EXTINF:-1 tvg-id="563e471267" tvg-name="Sun Bangla" tvg-genre="Entertainment" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" tvg-chno="" group-title="Entertainment",Sun Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/563e471267/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/563e471267/manifest.mpd
+#EXTINF:-1 tvg-id="543faf1fe8" tvg-name="Korean Dramas" tvg-genre="Entertainment" tvg-language="Korean" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3Gt8W9uh49rkrog1ldtNs5TxDAQOULpFtqQ&s" tvg-chno="" group-title="Entertainment",Korean Dramas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/543faf1fe8/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/543faf1fe8/manifest.mpd
+#EXTINF:-1 tvg-id="bbce81973a" tvg-name="Shorts TV" tvg-genre="Entertainment" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrb0Dmn99c9WZgM0PuUG3zraPKSv9VjD0ulA&s" tvg-chno="" group-title="Entertainment",Shorts TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/bbce81973a/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/bbce81973a/manifest.mpd
+#EXTINF:-1 tvg-id="b6384cd423" tvg-name="Zee Talkies" tvg-genre="Movies" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kaagCCamDXrwbIn-_YYVa93m0J_J-Ahda08hPcRqf8Lw=s900-c-k-c0x00ffffff-no-rj" tvg-chno="" group-title="Movies",Zee Talkies
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b6384cd423/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b6384cd423/manifest.mpd
+#EXTINF:-1 tvg-id="70d0c15f88" tvg-name="Zee Bangla" tvg-genre="Entertainment" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png" tvg-chno="" group-title="Entertainment",Zee Bangla
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/70d0c15f88/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/70d0c15f88/manifest.mpd
+#EXTINF:-1 tvg-id="73ac5bfd34" tvg-name="Zee Business" tvg-genre="News" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvV8VWbxLpQTkNX4kU1V5Cprf9mYaiSxluWQ&s" tvg-chno="" group-title="News",Zee Business
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/73ac5bfd34/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/73ac5bfd34/manifest.mpd
+#EXTINF:-1 tvg-id="17510a6d26" tvg-name="Zee Marathi" tvg-genre="Entertainment" tvg-language="Marathi" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-i5prkgwKrEXGjwZTaK3P-La9vL-0I24Lw&s" tvg-chno="" group-title="Entertainment",Zee Marathi
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/17510a6d26/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/17510a6d26/manifest.mpd
+#EXTINF:-1 tvg-id="d0ae7d224e" tvg-name="Zee Bangla Cinema" tvg-genre="Movies" tvg-language="Bengali" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrq8WGnJYw7a-0-cVbKSkuw2EKp-IVLAsKA&s" tvg-chno="" group-title="Movies",Zee Bangla Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/d0ae7d224e/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/d0ae7d224e/manifest.mpd
+#EXTINF:-1 tvg-id="3a6a1889c4" tvg-name="WWE SmackDown" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" tvg-chno="" group-title="Sports",WWE SmackDown
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/3a6a1889c4/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/3a6a1889c4/manifest.mpd
+#EXTINF:-1 tvg-id="1be9149764" tvg-name="More Max" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/2560px-MoreMax_Logo.svg.png" tvg-chno="" group-title="Movies",More Max
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/1be9149764/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/1be9149764/manifest.mpd
+#EXTINF:-1 tvg-id="74591962a2" tvg-name="Geo Super" tvg-genre="Sports" tvg-language="Urdu" tvg-country="IN" tvg-logo="https://play-lh.googleusercontent.com/u7vR1z3UhqPPbd315kLIaZCPAxY8uPQdLXKnyYEAKcJfjAcwoUvJRNyDCkJ9p-uxlNmy" tvg-chno="" group-title="Sports",Geo Super
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/74591962a2/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/74591962a2/manifest.mpd
+#EXTINF:-1 tvg-id="b0b7ca7e04" tvg-name="Ten Cricket" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLMhVJFXkNYK7trsuhRe58ZK1-pQLUhD3T6w&s" tvg-chno="" group-title="Sports",Ten Cricket
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b0b7ca7e04/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b0b7ca7e04/manifest.mpd
+#EXTINF:-1 tvg-id="fde38a4891" tvg-name="beIN Sports 1" tvg-genre="Sports" tvg-language="Arabic" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWdcDw40yx8_J4WDXOwbLZbvEwG4Pdg4J1wGVSY5mPrnzlVjSs71XtgIoL03D28rdlToM&usqp=CAU" tvg-chno="" group-title="Sports",beIN Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/fde38a4891/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/fde38a4891/manifest.mpd
+#EXTINF:-1 tvg-id="7f6280a849" tvg-name="PPTV HD 36" tvg-genre="Sports" tvg-language="Thai" tvg-country="IN" tvg-logo="https://play-lh.googleusercontent.com/clhMtBU3QtreaoCWrETPNIAVjbrlgzsSzOLaspaZ2kmd_cKCgIkSggz07lBsmaGLIka0" tvg-chno="" group-title="Sports",PPTV HD 36
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/7f6280a849/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/7f6280a849/manifest.mpd
+#EXTINF:-1 tvg-id="469c919653" tvg-name="Universo East" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Universo_2017.svg/1200px-Universo_2017.svg.png" tvg-chno="" group-title="Sports",Universo East
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/469c919653/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/469c919653/manifest.mpd
+#EXTINF:-1 tvg-id="a1bcde9e0c" tvg-name="One Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/One_Sports_logo.svg/1200px-One_Sports_logo.svg.png" tvg-chno="" group-title="Sports",One Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/a1bcde9e0c/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/a1bcde9e0c/manifest.mpd
+#EXTINF:-1 tvg-id="daa1090e21" tvg-name="NBC" tvg-genre="General" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png" tvg-chno="" group-title="General",NBC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/daa1090e21/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/daa1090e21/manifest.mpd
+#EXTINF:-1 tvg-id="6bca387ca4" tvg-name="Red Bull TV" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://cdn.dribbble.com/userupload/4941237/file/still-418f75c4e8ab72a58728ae827d374279.gif" tvg-chno="" group-title="Sports",Red Bull TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/6bca387ca4/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/6bca387ca4/manifest.mpd
+#EXTINF:-1 tvg-id="13b4a63072" tvg-name="Dhabi Sports 2" tvg-genre="Sports" tvg-language="Arabic" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ0xYv5yIHJ99ClwUGHCO-RX10tClHaZ2WgA&s" tvg-chno="" group-title="Sports",Dhabi Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/13b4a63072/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/13b4a63072/manifest.mpd
+#EXTINF:-1 tvg-id="f15082bc00" tvg-name="Dhabi Sports 1" tvg-genre="Sports" tvg-language="Arabic" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ0xYv5yIHJ99ClwUGHCO-RX10tClHaZ2WgA&s" tvg-chno="" group-title="Sports",Dhabi Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/f15082bc00/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/f15082bc00/manifest.mpd
+#EXTINF:-1 tvg-id="75027c1eb3" tvg-name="Fox Sports 3" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" tvg-chno="" group-title="Sports",Fox Sports 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/75027c1eb3/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/75027c1eb3/manifest.mpd
+#EXTINF:-1 tvg-id="8d867ef0ea" tvg-name="Fox Sports 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" tvg-chno="" group-title="Sports",Fox Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/8d867ef0ea/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/8d867ef0ea/manifest.mpd
+#EXTINF:-1 tvg-id="9c5ebea690" tvg-name="Fox Sports 1" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://logowik.com/content/uploads/images/fox-sports3529.jpg" tvg-chno="" group-title="Sports",Fox Sports 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/9c5ebea690/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/9c5ebea690/manifest.mpd
+#EXTINF:-1 tvg-id="9d96cc8046" tvg-name="ONE Championship" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://mma.prnewswire.com/media/1190969/ONE_Championship_Logo.jpg?w=300" tvg-chno="" group-title="Sports",ONE Championship
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/9d96cc8046/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/9d96cc8046/manifest.mpd
+#EXTINF:-1 tvg-id="b38f5f79ec" tvg-name="Tennis Channel" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://cdn6.aptoide.com/imgs/f/b/6/fb6e1c4987eae68aa7e5317b75e6e06f_icon.png" tvg-chno="" group-title="Sports",Tennis Channel
+https://noobmaster.xyz/playlist/type/livestream/b38f5f79ec/master.m3u8
+#EXTINF:-1 tvg-id="5e70cef032" tvg-name="NBC Golf" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSurc7jgzeg9uvKKiA8PIulAVJyWsKRN-tUlw&s" tvg-chno="" group-title="Sports",NBC Golf
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/5e70cef032/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/5e70cef032/manifest.mpd
+#EXTINF:-1 tvg-id="c08bd6e57f" tvg-name="ScreenPix Action" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/527-s.webp" tvg-chno="" group-title="Movies",ScreenPix Action
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/c08bd6e57f/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/c08bd6e57f/manifest.mpd
+#EXTINF:-1 tvg-id="c66f3731d4" tvg-name="HBO Family" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://w7.pngwing.com/pngs/534/400/png-transparent-logo-hbo-brasil-hbo-family-hbo-2-design-text-logo-family-thumbnail.png" tvg-chno="" group-title="Movies",HBO Family
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/c66f3731d4/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/c66f3731d4/manifest.mpd
+#EXTINF:-1 tvg-id="09d6800ba6" tvg-name="HBO Comedy" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://c3.klipartz.com/pngpicture/151/793/sticker-png-tv-channel-icons-pack-hbo-comedy-color-thumbnail.png" tvg-chno="" group-title="Movies",HBO Comedy
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/09d6800ba6/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/09d6800ba6/manifest.mpd
+#EXTINF:-1 tvg-id="74f36d8979" tvg-name="HBO 2" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://logowik.com/content/uploads/images/hbo-21940.logowik.com.webp" tvg-chno="" group-title="Movies",HBO 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/74f36d8979/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/74f36d8979/manifest.mpd
+#EXTINF:-1 tvg-id="dfd7a7969d" tvg-name="MGM Hits" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/2560px-MGM%2B_Hits_2023.svg.png" tvg-chno="" group-title="Movies",MGM Hits
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/dfd7a7969d/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/dfd7a7969d/manifest.mpd
+#EXTINF:-1 tvg-id="cb32bc1074" tvg-name="SSC Extra 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://live.multies.net/wp-content/uploads/2022/05/SSC-Extra-2.png" tvg-chno="" group-title="Sports",SSC Extra 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/cb32bc1074/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/cb32bc1074/manifest.mpd
+#EXTINF:-1 tvg-id="35da21102e" tvg-name="Zee Anmol Cinema" tvg-genre="Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://multireach.in/wp-content/uploads/2020/10/zeeanmolcinema-1.jpg" tvg-chno="" group-title="Movies",Zee Anmol Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/35da21102e/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/35da21102e/manifest.mpd
+#EXTINF:-1 tvg-id="dece54b690" tvg-name="beIN Sports 2" tvg-genre="Sports" tvg-language="Arabic" tvg-country="IN" tvg-logo="https://logowik.com/content/uploads/images/bein-sports-25584.logowik.com.webp" tvg-chno="" group-title="Sports",beIN Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/dece54b690/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/dece54b690/manifest.mpd
+#EXTINF:-1 tvg-id="f9ae61f1f6" tvg-name="Fubo Sports 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://images.fubo.tv/station_logos/Fubo_Sports_2_c.png" tvg-chno="" group-title="Sports",Fubo Sports 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/f9ae61f1f6/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/f9ae61f1f6/manifest.mpd
+#EXTINF:-1 tvg-id="3662ee8a05" tvg-name="Fubo Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://images.fubo.tv/station_logos/fubo-sports23_c.png" tvg-chno="" group-title="Sports",Fubo Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/3662ee8a05/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/3662ee8a05/manifest.mpd
+#EXTINF:-1 tvg-id="f6f7a63d5a" tvg-name="NBC USA" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/800px-NBC_logo_2022_%28vertical%29.svg.png" tvg-chno="" group-title="Sports",NBC USA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/f6f7a63d5a/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/f6f7a63d5a/manifest.mpd
+#EXTINF:-1 tvg-id="ffeddd8da1" tvg-name="SSC Extra 1" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUHfhpv1NKHwQ46dx64sxjCPa4MzE6iClCbA&s" tvg-chno="" group-title="Sports",SSC Extra 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/ffeddd8da1/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/ffeddd8da1/manifest.mpd
+#EXTINF:-1 tvg-id="fb26a8a206" tvg-name="SSC5" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-5-sa.png" tvg-chno="" group-title="Sports",SSC5
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/fb26a8a206/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/fb26a8a206/manifest.mpd
+#EXTINF:-1 tvg-id="b7c99b7082" tvg-name="SSC4" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://www.lyngsat.com/logo/tv/ss/ssc-4-sa.png" tvg-chno="" group-title="Sports",SSC4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b7c99b7082/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b7c99b7082/manifest.mpd
+#EXTINF:-1 tvg-id="60521e2a3e" tvg-name="SSC3" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGeFtCWbOI6sABfwuPeNZHOa5136WYG5zZjg&s" tvg-chno="" group-title="Sports",SSC3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/60521e2a3e/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/60521e2a3e/manifest.mpd
+#EXTINF:-1 tvg-id="cb1584eb17" tvg-name="Premier League TV" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Premier_League_Logo.svg/1200px-Premier_League_Logo.svg.png" tvg-chno="" group-title="Sports",Premier League TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/cb1584eb17/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/cb1584eb17/manifest.mpd
+#EXTINF:-1 tvg-id="4f4c28a490" tvg-name="NBC Sports" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/NBC_Sports_Network_logo.svg/640px-NBC_Sports_Network_logo.svg.png" tvg-chno="" group-title="Sports",NBC Sports
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/4f4c28a490/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/4f4c28a490/manifest.mpd
+#EXTINF:-1 tvg-id="39ab186cc6" tvg-name="NFL 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/640px-NFL_Network_logo.svg.png" tvg-chno="" group-title="Sports",NFL 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/39ab186cc6/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/39ab186cc6/manifest.mpd
+#EXTINF:-1 tvg-id="364234abe3" tvg-name="NFL" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/National_Football_League_logo.svg/640px-National_Football_League_logo.svg.png" tvg-chno="" group-title="Sports",NFL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/364234abe3/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/364234abe3/manifest.mpd
+#EXTINF:-1 tvg-id="d4f2d89e21" tvg-name="Sportsnet Ontario" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgSbuYmkRw4DIL83YIEh46ca4gi0yNynkpfg&s" tvg-chno="" group-title="Sports",Sportsnet Ontario
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/d4f2d89e21/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/d4f2d89e21/manifest.mpd
+#EXTINF:-1 tvg-id="4e5ead3ea9" tvg-name="Willow Sports Live" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://www.trillertv.com/thumbs/o/picon/100/1292_200x200.jpg" tvg-chno="" group-title="Sports",Willow Sports Live
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/4e5ead3ea9/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/4e5ead3ea9/manifest.mpd
+#EXTINF:-1 tvg-id="a3284bf671" tvg-name="USA Network" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://graphicdesignfall16.wordpress.com/wp-content/uploads/2016/10/usa-network-logo1.jpg?w=430" tvg-chno="" group-title="Sports",USA Network
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/a3284bf671/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/a3284bf671/manifest.mpd
+#EXTINF:-1 tvg-id="5072a2b947" tvg-name="TNT 4" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6b/TNT_Sports_4_logo.png" tvg-chno="" group-title="Sports",TNT 4
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/5072a2b947/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/5072a2b947/manifest.mpd
+#EXTINF:-1 tvg-id="366a110c4c" tvg-name="TNT 3" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_8RQE49umXULt1pTKGm5pvD7mIIZ6D_GuBg&s" tvg-chno="" group-title="Sports",TNT 3
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/366a110c4c/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/366a110c4c/manifest.mpd
+#EXTINF:-1 tvg-id="338845491c" tvg-name="TNT 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS4R1CjAeCjmAehJn4g7dzScZj5FwS7daoSQ&s" tvg-chno="" group-title="Sports",TNT 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/338845491c/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/338845491c/manifest.mpd
+#EXTINF:-1 tvg-id="d87940c31e" tvg-name="TNT 1" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-chno="" group-title="Sports",TNT 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/d87940c31e/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/d87940c31e/manifest.mpd
+#EXTINF:-1 tvg-id="924b76a6c6" tvg-name="MGM Drive-In" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRtSM9m8cVDpUy-6GcDatbfJqNRAzQxoqkQg&s" tvg-chno="" group-title="Movies",MGM Drive-In
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/924b76a6c6/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/924b76a6c6/manifest.mpd
+#EXTINF:-1 tvg-id="ba543aa140" tvg-name="Cinemax HD" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://banner2.cleanpng.com/20180601/qaa/avo1zewlu.webp" tvg-chno="" group-title="Movies",Cinemax HD
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/ba543aa140/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/ba543aa140/manifest.mpd
+#EXTINF:-1 tvg-id="c143870fa4" tvg-name="Action Max" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fe/Action_max_logo.png" tvg-chno="" group-title="Movies",Action Max
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/c143870fa4/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/c143870fa4/manifest.mpd
+#EXTINF:-1 tvg-id="460e02a7c1" tvg-name="Movie Max" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://archive.org/download/CinemaxMoviemax/cinemax%20moviemax.png" tvg-chno="" group-title="Movies",Movie Max
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/460e02a7c1/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/460e02a7c1/manifest.mpd
+#EXTINF:-1 tvg-id="e3c49b00b0" tvg-name="HBO Signature" tvg-genre="Movies" tvg-language="English" tvg-country="IN" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch114_425_305" tvg-chno="" group-title="Movies",HBO Signature
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/e3c49b00b0/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/e3c49b00b0/manifest.mpd
+#EXTINF:-1 tvg-id="5091b5bd89" tvg-name="Discovery Kids" tvg-genre="Kids" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGQMAT4d9I9YHwmHAiVxkksWro6YIvffpr4Q&s" tvg-chno="" group-title="Kids",Discovery Kids
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/5091b5bd89/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/5091b5bd89/manifest.mpd
+#EXTINF:-1 tvg-id="26e8bfda2d" tvg-name="TLC" tvg-genre="Lifestyle" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0VgQusmm7733xqNk2wve18H671L5AihvnXI7oZC66pvnqgIIVCukcFkHQyBg9ThM9j98&usqp=CAU" tvg-chno="" group-title="Lifestyle",TLC
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/26e8bfda2d/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/26e8bfda2d/manifest.mpd
+#EXTINF:-1 tvg-id="efa34eb45d" tvg-name="Zoom" tvg-genre="Music" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lZEnCMQZz6FfEgDysuhVObO6O972OlqzBOaGwninMVpWk=s900-c-k-c0x00ffffff-no-rj" tvg-chno="" group-title="Music",Zoom
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/efa34eb45d/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/efa34eb45d/manifest.mpd
+#EXTINF:-1 tvg-id="5f49c40df3" tvg-name="Zing" tvg-genre="Music" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9hdM2_0ky4nBrT-hJ-vseoOj8goZdzZtQvQ&s" tvg-chno="" group-title="Music",Zing
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/5f49c40df3/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/5f49c40df3/manifest.mpd
+#EXTINF:-1 tvg-id="1c8023fe6d" tvg-name="MTV Beats" tvg-genre="Music" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwfWrWH1lZo6wIP0_c3V8HKr3XUQfEGAClYw&s" tvg-chno="" group-title="Music",MTV Beats
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/1c8023fe6d/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/1c8023fe6d/manifest.mpd
+#EXTINF:-1 tvg-id="e3ff915f77" tvg-name="Zee Anmol" tvg-genre="Entertainment" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSI0T54ROLDWh7cBfPDZL539n7ZHytYgfxwFA&s" tvg-chno="" group-title="Entertainment",Zee Anmol
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/e3ff915f77/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/e3ff915f77/manifest.mpd
+#EXTINF:-1 tvg-id="89cfafc663" tvg-name="Zee Bollywood" tvg-genre="Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://www.bizasialive.com/wp-content/uploads/2018/08/zeebollywoodlogoNEW.jpg" tvg-chno="" group-title="Movies",Zee Bollywood
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/89cfafc663/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/89cfafc663/manifest.mpd
+#EXTINF:-1 tvg-id="8696c96f32" tvg-name="Zee Cinema" tvg-genre="Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://astromedia.com.my/wp-content/uploads/2024/01/Zee-Cinema.png" tvg-chno="" group-title="Movies",Zee Cinema
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/8696c96f32/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/8696c96f32/manifest.mpd
+#EXTINF:-1 tvg-id="fc59f5ea8a" tvg-name="Zee TV" tvg-genre="Entertainment" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Zee_TV-2018.png" tvg-chno="" group-title="Entertainment",Zee TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/fc59f5ea8a/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/fc59f5ea8a/manifest.mpd
+#EXTINF:-1 tvg-id="b875d35d46" tvg-name="&Pictures" tvg-genre="Movies" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/And_Pictures.png" tvg-chno="" group-title="Movies",&Pictures
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/b875d35d46/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/b875d35d46/manifest.mpd
+#EXTINF:-1 tvg-id="208a64055f" tvg-name="&TV" tvg-genre="Entertainment" tvg-language="Hindi" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMmzui_TJ7U5d5RiHbqcqh173qA9-h-MFDjw&s" tvg-chno="" group-title="Entertainment",&TV
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/208a64055f/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/208a64055f/manifest.mpd
+#EXTINF:-1 tvg-id="f494fef95c" tvg-name="SSC 2" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/ssc2/original/ssc2.png?height=379.5&width=675&croppingPoint=&version=1&type=webp" tvg-chno="" group-title="Sports",SSC 2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/f494fef95c/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/f494fef95c/manifest.mpd
+#EXTINF:-1 tvg-id="ac4dae19cd" tvg-name="SSC 1" tvg-genre="Sports" tvg-language="English" tvg-country="IN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTgaTNR_DqH6OBYrS5tfML80BQB5lYQrdlmQ&s" tvg-chno="" group-title="Sports",SSC 1
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://noobmaster.xyz/playlist/type/livestream/ac4dae19cd/drmLicense
+https://noobmaster.xyz/playlist/type/livestream/ac4dae19cd/manifest.mpd
