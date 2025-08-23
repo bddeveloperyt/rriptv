@@ -283,6 +283,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 http://38.96.178.201/live/STARJALSHA/index.m3u8
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703",Jalsha Movies HD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703",Jalsha Movies HD
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8?hdnts=
+#EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703",Jalsha Movies HD
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://dl.dropbox.com/s/44vdhjj6fja02co/CBHD.jpg",Colors Bangla
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 #EXTINF:-1 group-title="Indian-Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png",Sony Aath
